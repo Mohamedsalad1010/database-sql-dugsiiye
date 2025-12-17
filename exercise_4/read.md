@@ -1,4 +1,4 @@
 ### exercise 4
 
 ## result is here 
-![Demo](./exercise_4result-ezgifcom-video-to-gif-converter.gif)
+![Demo](./exercise_4result-ezgif.com-video-to-gif-converter.gif)
